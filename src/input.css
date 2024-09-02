@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.conicGradient{
+    background : conic-gradient(#e91e63 1.5deg, #673ab7 1.5deg, white 0deg)
+}
+.linGradient{
+    background:  linear-gradient(90deg,#FF8C00,#f0e007);
+}
